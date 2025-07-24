@@ -5,10 +5,10 @@ Welcome to my GitHub repository! I am a PhD student specializing in Cancer Neuro
 
 ## 💻 Programming Skills
 
-I have a strong foundation in the following programming languages:
+### Proficient in:
 
-- **Python**: Proficient in data analysis, visualization, and machine learning.
-- **R**: Experienced in statistical analysis, bioinformatics, and data visualization using packages like Seurat and ggplot2.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### Currently Learning:
 
