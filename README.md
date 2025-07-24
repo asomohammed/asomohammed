@@ -1,7 +1,7 @@
 # Aso Omer Mohammed
 Welcome to my GitHub repository! I am a **PhD student** specializing in **Cancer Neuroscience**, focusing on **Glioblastoma Immunology** and **Transcriptomics**. I am a lightweight programmer primarily engaged in wet lab work. This repository serves as a platform to share my research, code, and findings related to my studies and projects.
 
-[![Email](https://img.shields.io/badge/Email-aso.mohammed@uniklinik-freiburg.de-blue?logo=mail)](mailto:aso.mohammed@uniklinik-freiburg.de)
+[![Email](https://img.shields.io/badge/Email-aso.mohammed@uniklinik--freiburg.de-blue?logo=mail)](mailto:aso.mohammed@uniklinik-freiburg.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aso%20Mohammed-blue?logo=linkedin)](https://www.linkedin.com/in/aso-omer-mohammed-3a8897146/)
 
 ## 🔬 Research Interests
