@@ -35,7 +35,8 @@ Welcome to my GitHub repository! I am a **PhD student** specializing in **Cancer
 - **Bio-imaging Tools**:
   - ![ImageJ](https://img.shields.io/badge/ImageJ-000000?style=for-the-badge&logo=imagej&logoColor=white) ImageJ
   - ![Ilastik](https://img.shields.io/badge/Ilastik-00A3E0?style=for-the-badge&logo=ilastik&logoColor=white) Ilastik
-  - ![QuPath](https://img.shields.io/badge/QuPath-FFB300?style=for-the-badge&logo=qupath&logoColor=white) QuPath  - ![CellProfiler](https://img.shields.io/badge/CellProfiler-2A9D8F?style=for-the-badge&logo=cellprofiler&logoColor=white) CellProfiler
+  - ![QuPath](https://img.shields.io/badge/QuPath-FFB300?style=for-the-badge&logo=qupath&logoColor=white) QuPath
+  - ![CellProfiler](https://img.shields.io/badge/CellProfiler-2A9D8F?style=for-the-badge&logo=cellprofiler&logoColor=white) CellProfiler
 
 - **Operating Systems**:
   - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) Linux
