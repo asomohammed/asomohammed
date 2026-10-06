@@ -3,6 +3,7 @@ Welcome to my GitHub! I am a **PhD student** specializing in **Cancer Neuroscien
 
 [![Email](https://img.shields.io/badge/Email-aso.mohammed@uniklinik--freiburg.de-blue?logo=mail)](mailto:aso.mohammed@uniklinik-freiburg.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aso%20Mohammed-blue?logo=linkedin)](https://www.linkedin.com/in/aso-omer-mohammed-3a8897146/)
+[![Google Scholar](https://scholar.google.com/citations?user=IiJ6Q6gAAAAJ&hl=en)
 
 ## 🔬 Research Interests
 
